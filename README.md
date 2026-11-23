@@ -9,7 +9,7 @@ style.css    estilos (tema claro/escuro automático)
 quiz.js      perguntas e lógica do quiz
 img/         imagens do site
 ```
-
+Site:https://thalles0206.github.io/Portif-lio-Site-Web/
 ## Como rodar
 Abra o `index.html` no navegador. Não precisa instalar nada.
 
